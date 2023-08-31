@@ -1,4 +1,5 @@
-![snake gif](https://github.com/yspark2/yspark2/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/yspark2/yspark2/blob/output/github-contribution-grid-snake.svg"/>
+
 <!--
 **yspark2/yspark2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
